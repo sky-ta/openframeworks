@@ -1,10 +1,24 @@
 # Assignment_3
 
 ## Description
- 
-## API Research
-Find the following methods in the API documentation.  For each tell us what it does, the (easiest) arguments it takes , and (if relevant) what it returns.
-Team 3: ofDrawBezier() ofDrawTriangle() ofSetFrameRate()  ofSetColor()  
+The following includes:
+- Concept descriptions and sketches for the 3 projects.
+- API Reseach (Team 3)
+
+### 3 Project Concepts
+#### Project 1
+Description 
+Sketch
+#### Project 2
+Description 
+Sketch
+#### Project 3
+Description 
+Sketch
+
+### API Research
+Team 3:  
+Four methods and what they do, their aguments, and returns (if relevant).  
 1. [ofDrawBezier()](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofDrawBezier "ofDrawBezier() Method") draws curves, similar to the pen tool in Photoshop. The argument it takes is floats.
 ```
 void ofDrawBezier(float x0, float y0, float x1, float y1, float x2, float y2, float x3, float y3);  
