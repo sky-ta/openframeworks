@@ -17,3 +17,7 @@ obj
 **/bin/*
 !**/bin/data/
 *Debug.app
+
+# SQL Server files
+*.mdf
+*.ldf
