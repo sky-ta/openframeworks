@@ -5,7 +5,7 @@ This class is taught by Prof. Michael Wolf, Spring 2020.
 <img src="images/profile_photo.jpg" width="40%">
 <!--- testing comment --->
 Hi, I'm Sky.  
-I'm an _Illustrator_ and a _Creative Technologist_.  
+I'm an Illustrator and a Creative Technologist.  
 I like programming as much as crafting! My recent projects emphasize on audience collaborations and projection mapping.  
-_Find out more about me at: [skyta.me](https://skyta.me/)._
+Find out more about me at: [skyta.me](https://skyta.me/).
 <!--- Website to be updated more on in the near future for latest works. --->
