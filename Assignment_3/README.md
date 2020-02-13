@@ -8,18 +8,30 @@ The following includes:
 - - - -
 ### 3 Project Concepts
 #### Project 1
-Description 
-Sketch
+For this project, I will be using simple shapes to visualizes a Vietnamese folktale, "Fruit for Gold" or "The Golden Starfruit Tree" ([link](https://truyenco.com/an-khe-tra-vang-a229.html "An Khe Tra Vang")). In the story, there are two brothers. One is hardworking and humble, while the other is greedy. One day, a magical bird came and ask for the fruits of a tree in their garden with a promise of wealth in exchange.  
+
+The audience of this story is young childen, age 5+. In the folktale, the are two brothers. The audience are able to choose one character (one of the brothers) and experience the story.  
+
+![Project 1 Sketches](/images/project1_sketches.jpg)
+
 #### Project 2
-Description 
-Sketch
+//Description to be added.
+![Project 2 Sketch](/images/project2_sketches.jpg)
+
+
 #### Project 3
-Description 
-Sketch
+For this project, I plan to use it as an extension to my Thesis project. I will be using a projector and some interactable element for the project. The visual of the project is calming and cathartic.  
+
+The audience of the project are people who seek a calm space while experience big transitions in their life (16+, students, young adults). They will be able to interact with the visual through Kinect sensor.  
+![Project 3 Sketch](/images/project3_sketches.jpg)
 
 - - - -
 ### API Research
 Team 3:  
+I  attempted the 30-sec example but wasn't able to display 3D primitive shapes and get ofGetFrameNum() to work. The one I was able to display was static 2D shape like the image bellow:  
+![Team 3 Progress](/images/team3_example_draft.png)  
+I tried uploading the oF file to GitHub but it was too large. It still could't upload with Git LFS extension and .gitattributes.  
+
 Four methods and what they do, their aguments, and returns (if relevant).  
 - [ofDrawBezier()](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofDrawBezier "ofDrawBezier() Method") draws curves, similar to the pen tool in Photoshop. The argument it takes is floats.
 ```
