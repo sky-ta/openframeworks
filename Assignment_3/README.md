@@ -31,7 +31,7 @@ Team 3:
 I  attempted the 30-sec example but wasn't able to display 3D primitive shapes and get ofGetFrameNum() to work. I was able to display static 2D shapes like the GIFs bellow:  
 ![Speeded up by an image/2sec](/images/team_3_fast.gif)  
 Full 30 sec example:
-![Final Product](/images/team_3_fast.gif)  
+![Final Product](/images/team_3_normal30sec.gif)  
 
 
 Four methods and what they do, their aguments, and returns (if relevant).  
