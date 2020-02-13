@@ -28,9 +28,11 @@ The audience of the project are people who seek a calm space while experience bi
 - - - -
 ### API Research
 Team 3:  
-I  attempted the 30-sec example but wasn't able to display 3D primitive shapes and get ofGetFrameNum() to work. The one I was able to display was static 2D shape like the image bellow:  
-![Team 3 Progress](/images/team3_example_draft.png)  
-I tried uploading the oF file to GitHub but it was too large. It still could't upload with Git LFS extension and .gitattributes.  
+I  attempted the 30-sec example but wasn't able to display 3D primitive shapes and get ofGetFrameNum() to work. I was able to display static 2D shapes like the GIFs bellow:  
+![Speeded up by an image/2sec](/images/team_3_fast.gif)  
+Full 30 sec example:
+![Final Product](/images/team_3_fast.gif)  
+
 
 Four methods and what they do, their aguments, and returns (if relevant).  
 - [ofDrawBezier()](https://openframeworks.cc/documentation/graphics/ofGraphics/#show_ofDrawBezier "ofDrawBezier() Method") draws curves, similar to the pen tool in Photoshop. The argument it takes is floats.
