@@ -13,19 +13,19 @@ For this project, I will be using simple shapes to visualizes a Vietnamese folkt
 The audience of this story is young childen, age 5+. In the folktale, the are two brothers. The audience are able to choose one character (one of the brothers) and experience the story.  
 
 Sketches:  
-<img src="/images/project1_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
+<img src="/Assignment_3/images/project1_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
 Designs:  
-<img src="/images/project1_bird.jpg" alt="Project1_BigBird" width="40%"/>
-<img src="/images/project1_2brothers.jpg" alt="Project1_Brothers" width="40%"/>\
-<img src="/images/project1_home_tree.jpg" alt="Project1_Home_and_Tree" width="40%"/>
-<img src="/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>
+<img src="/Assignment_3/images/project1_bird.jpg" alt="Project1_BigBird" width="40%"/>
+<img src="/Assignment_3/images/project1_2brothers.jpg" alt="Project1_Brothers" width="40%"/>\
+<img src="/Assignment_3/images/project1_home_tree.jpg" alt="Project1_Home_and_Tree" width="40%"/>
+<img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>
 
 #### Project 2
 
 Sketches:  
-    <img src="/images/project1_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
+    <img src="/Assignment_3/images/" alt="Project1_Sketch" width="30%"/>\
 Designs:  
-    <img src="/images/project1_bird.jpg" alt="Project1_BigBird" width="40%"/>
+    <img src="/Assignment_3/images/" alt="Project1_BigBird" width="40%"/>
 
 
 #### Project 3
@@ -38,9 +38,9 @@ The audience of the project are people who seek a calm space while experience bi
 ### API Research
 Team 3:  
 I  attempted the 30-sec example but wasn't able to display 3D primitive shapes and get ofGetFrameNum() to work. I was able to display static 2D shapes like the GIFs bellow:  
-![Speeded up by an image/2sec](/images/team_3_fast.gif)  
+![Speeded up by an image/2sec](/Assignment_3/images/team_3_fast.gif)  
 Full 30 sec example:
-![Final Product](/images/team_3_normal30sec.gif)  
+![Final Product](/Assignment_3/images/team_3_normal30sec.gif)  
 
 
 Four methods and what they do, their aguments, and returns (if relevant).  
