@@ -14,6 +14,7 @@ The audience of this story is young childen, age 5+. In the folktale, the are tw
 
 ![Project 1 Sketches](/images/project1_sketches.jpg width="200")  
 ![Project 1 image 1](/images/project1_image1.jpg width="200")
+![Project 1 image 1]<img src="/images/project1_image1.jpg" alt="IMAGE ALT TEXT HERE" width="40%" />
 ![Project 1 image 2](/images/project1_image2.jpg)
 
 
