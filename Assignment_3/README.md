@@ -21,8 +21,11 @@ Designs:
 <img src="/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>
 
 #### Project 2
-//Description to be added.
-![Project 2 Sketch](/images/project2_sketches.jpg)
+
+Sketches:  
+    <img src="/images/project1_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
+Designs:  
+    <img src="/images/project1_bird.jpg" alt="Project1_BigBird" width="40%"/>
 
 
 #### Project 3
