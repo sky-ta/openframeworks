@@ -12,7 +12,10 @@ For this project, I will be using simple shapes to visualizes a Vietnamese folkt
 
 The audience of this story is young childen, age 5+. In the folktale, the are two brothers. The audience are able to choose one character (one of the brothers) and experience the story.  
 
-![Project 1 Sketches](/images/project1_sketches.jpg)
+![Project 1 Sketches](/images/project1_sketches.jpg | width=100)  
+![Project 1 image 1](/images/project1_image1.jpg | width=200)
+![Project 1 image 2](/images/project1_image2.jpg)
+
 
 #### Project 2
 //Description to be added.
