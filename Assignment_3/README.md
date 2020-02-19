@@ -21,12 +21,10 @@ Designs:
     <img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>
 
 #### Project 2
+I want to create an abstract visualization of this [Flight Data API](https://rapidapi.com/Travelpayouts/api/flight-data) data (data source is temporary, may be changed). This project is my personal take on how often  international flight are made to the cities that I have spend my time at.  
 
-Sketches:  
-    <img src="/Assignment_3/images/project2" alt="Project1_Sketch" width="30%"/>\
-Designs:  
-    <img src="/Assignment_3/images/" alt="Project1_BigBird" width="40%"/>
-
+The audience of this project is 12+ years old. Viewer are presented with a visualization of flight data (with slider to speed through time as mentioned in the prompt) and there is sound with pitch based on how high the number of flight is.  
+    <img src="/Assignment_3/images/project2_color_viz.jpg" alt="Project2_color_viz" width="50%"/>
 
 #### Project 3
 I plan to use it as an extension to my Thesis project, a projected interactable object. I will be using a projector and some interactable element for the project (vibration sensor or Kinect). The visual of the project is calming and cathartic.  
@@ -34,12 +32,12 @@ I plan to use it as an extension to my Thesis project, a projected interactable 
 The audience of the project are people who seek a calm space while experience big transitions in their life (16+, students, young adults). They will be able to interact with the visual through said technology (movement ditection).
 
 Sketches:  
-    <img src="/Assignment_3/images/project3_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
+    <img src="/Assignment_3/images/project3_sketches.jpg" alt="Project3_Sketch" width="30%"/>\
 Designs:  
-    <img src="/Assignment_3/images/project3_plan1_image1.jpg" alt="Project1_BigBird" width="40%"/>
-    <img src="/Assignment_3/images/project3_plan1_image2.jpg" alt="Project1_BigBird" width="40%"/>\
-    <img src="/Assignment_3/images/project3_plan2_image1.jpg" alt="Project1_BigBird" width="40%"/>
-    <img src="/Assignment_3/images/project3_plan2_image2.jpg" alt="Project1_BigBird" width="40%"/>\
+    <img src="/Assignment_3/images/project3_plan1_image1.jpg" alt="project3_plan1_image1" width="40%"/>
+    <img src="/Assignment_3/images/project3_plan1_image2.jpg" alt="project3_plan1_image2" width="40%"/>\
+    <img src="/Assignment_3/images/project3_plan2_image1.jpg" alt="project3_plan2_image1" width="40%"/>
+    <img src="/Assignment_3/images/project3_plan2_image2.jpg" alt="Project3_plan2_image2" width="40%"/>
     
 - - - -
 ### API Research
