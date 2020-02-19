@@ -41,8 +41,6 @@ Designs:
     <img src="/Assignment_3/images/project3_plan2_image1.jpg" alt="Project1_BigBird" width="40%"/>
     <img src="/Assignment_3/images/project3_plan2_image2.jpg" alt="Project1_BigBird" width="40%"/>\
     
-    <img src="/Assignment_3/images/" alt="Project1_Sketch" width="30%"/>\
-
 - - - -
 ### API Research
 Team 3:  
