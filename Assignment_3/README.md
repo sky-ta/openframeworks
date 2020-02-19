@@ -13,26 +13,35 @@ For this project, I will be using simple shapes to visualizes a Vietnamese folkt
 The audience of this story is young childen, age 5+. In the folktale, the are two brothers. The audience are able to choose one character (one of the brothers) and experience the story.  
 
 Sketches:  
-<img src="/Assignment_3/images/project1_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
+    <img src="/Assignment_3/images/project1_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
 Designs:  
-<img src="/Assignment_3/images/project1_bird.jpg" alt="Project1_BigBird" width="40%"/>
-<img src="/Assignment_3/images/project1_2brothers.jpg" alt="Project1_Brothers" width="40%"/>\
-<img src="/Assignment_3/images/project1_home_tree.jpg" alt="Project1_Home_and_Tree" width="40%"/>
-<img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>
+    <img src="/Assignment_3/images/project1_bird.jpg" alt="Project1_BigBird" width="40%"/>
+    <img src="/Assignment_3/images/project1_2brothers.jpg" alt="Project1_Brothers" width="40%"/>\
+    <img src="/Assignment_3/images/project1_home_tree.jpg" alt="Project1_Home_and_Tree" width="40%"/>
+    <img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>
 
 #### Project 2
 
 Sketches:  
-    <img src="/Assignment_3/images/" alt="Project1_Sketch" width="30%"/>\
+    <img src="/Assignment_3/images/project2" alt="Project1_Sketch" width="30%"/>\
 Designs:  
     <img src="/Assignment_3/images/" alt="Project1_BigBird" width="40%"/>
 
 
 #### Project 3
-For this project, I plan to use it as an extension to my Thesis project. I will be using a projector and some interactable element for the project. The visual of the project is calming and cathartic.  
+I plan to use it as an extension to my Thesis project, a projected interactable object. I will be using a projector and some interactable element for the project (vibration sensor or Kinect). The visual of the project is calming and cathartic.  
 
-The audience of the project are people who seek a calm space while experience big transitions in their life (16+, students, young adults). They will be able to interact with the visual through Kinect sensor.  
-![Project 3 Sketch]/images/project3_sketches.jpg)
+The audience of the project are people who seek a calm space while experience big transitions in their life (16+, students, young adults). They will be able to interact with the visual through said technology (movement ditection).
+
+Sketches:  
+    <img src="/Assignment_3/images/project3_sketches.jpg" alt="Project1_Sketch" width="30%"/>\
+Designs:  
+    <img src="/Assignment_3/images/project3_plan1_image1.jpg" alt="Project1_BigBird" width="40%"/>
+    <img src="/Assignment_3/images/project3_plan1_image2.jpg" alt="Project1_BigBird" width="40%"/>\
+    <img src="/Assignment_3/images/project3_plan2_image1.jpg" alt="Project1_BigBird" width="40%"/>
+    <img src="/Assignment_3/images/project3_plan2_image2.jpg" alt="Project1_BigBird" width="40%"/>\
+    
+    <img src="/Assignment_3/images/" alt="Project1_Sketch" width="30%"/>\
 
 - - - -
 ### API Research
