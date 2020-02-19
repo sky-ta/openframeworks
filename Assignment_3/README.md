@@ -18,8 +18,10 @@ Designs:
     <img src="/Assignment_3/images/project1_bird.jpg" alt="Project1_BigBird" width="40%"/>
     <img src="/Assignment_3/images/project1_2brothers.jpg" alt="Project1_Brothers" width="40%"/>\
     <img src="/Assignment_3/images/project1_home_tree.jpg" alt="Project1_Home_and_Tree" width="40%"/>
-    <img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>
+    <img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>  
 
+4 Elements presented on OF:  
+    <img src="/Assignment_3/images/bigbird_2.jpg" alt="bird" width="40%"/>
 #### Project 2
 I want to create an abstract visualization of this [Flight Data API](https://rapidapi.com/Travelpayouts/api/flight-data) data (data source is temporary, may be changed). This project is my personal take on how often  international flight are made to the cities that I have spend my time at.  
 
@@ -65,7 +67,7 @@ void ofDrawTriangle(float x1, float y1, float x2, float y2, float x3, float y3);
 
 void ofDrawTriangle(float x1, float y1, float z1, float x2, float y2, float z2, float x3, float y3, float z3);
 ```
-- [ofSetFrameRate()](https://openframeworks.cc//documentation/application/ofAppRunner/#!show_ofSetFrameRate "ofSetFrameRate() Method") sets the frame rate to a target, making it wait an amount of time before producing next frame. The argument it takes is integer.  
+- [ofSetFrameRate()](https://openframeworks.cc//documentation/application/ofAppRunner/#!show_ofSetFrameRate "ofSetFrameRate() Method") sets the frame rate to a target, making it wait an amount of time before producing next frame. The argument it takes is integser.  
 ```
 void ofSetFrameRate(int targetRate);
 
