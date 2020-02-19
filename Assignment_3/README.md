@@ -21,7 +21,7 @@ Designs:
     <img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>  
 
 4 Elements presented on OF:  
-    <img src="/Assignment_3/images/bigbird_2.jpg" alt="bird" width="40%"/>
+    <img src="/Assignment_3/images/bigbird_2.png" alt="bird" width="40%"/>
 #### Project 2
 I want to create an abstract visualization of this [Flight Data API](https://rapidapi.com/Travelpayouts/api/flight-data) data (data source is temporary, may be changed). This project is my personal take on how often  international flight are made to the cities that I have spend my time at.  
 
