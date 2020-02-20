@@ -23,10 +23,9 @@ Designs:
 4 Elements presented on OF:  
     <img src="/Assignment_3/images/bigbird_2.png" alt="bird" width="40%"/>
     <img src="/Assignment_3/images/brother1.png" alt="brother1" width="40%"/>  
-(Testing color variations):
-<img src="/Assignment_3/images/brother1colorful.png" alt="brother1ver1" width="30%"/>
-<img src="/Assignment_3/images/brother1.png" alt="brother1ver2" width="30%"/>
-<img src="/Assignment_3/images/brother1ver1.png" alt="brother1ver3" width="30%"/>
+(Testing color variations):  
+<img src="/Assignment_3/images/brother1colorful.png" alt="brother1ver1" width="20%"/>
+<img src="/Assignment_3/images/brother1.png" alt="brother1ver2" width="20%"/>
 
 
     
