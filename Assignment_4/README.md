@@ -15,11 +15,11 @@ Gif of the running program:
 <img src="/Assignment_4/images/br1_emotions.gif" alt="brother1" width="80%" align="center"/>  
 Happiness :grinning::  
     <img src="/Assignment_4/images/brother1.png" alt="brother1" width="80%" align="center"/>  
-Sadness:  
+Sadness :slightly_frowning_face::  
     <img src="/Assignment_4/images/brother1_sad.png" alt="brother1_sad" width="80%" align="center"/>  
-Surprise:  
+Surprise :open_mouth::  
     <img src="/Assignment_4/images/brother1_surprise.png" alt="brother1_surprise" width="80%" align="center"/>  
-Anger:  
+Anger :angry::  
     <img src="/Assignment_4/images/brother1_angry.png" alt="brother1_angry" width="80%" align="center"/> 
 
 
