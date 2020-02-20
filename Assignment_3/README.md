@@ -20,12 +20,12 @@ Designs:
     <img src="/Assignment_3/images/project1_home_tree.jpg" alt="Project1_Home_and_Tree" width="40%"/>
     <img src="/Assignment_3/images/project1_treasure_island.jpg" alt="Project1_TreasureIsland" width="40%"/>  
 
-4 Elements presented on OF:  
+4 Elements presented on OF - updating:  
     <img src="/Assignment_3/images/bigbird_2.png" alt="bird" width="40%"/>
     <img src="/Assignment_3/images/brother1.png" alt="brother1" width="40%"/>  
 (Testing color variations):  
-<img src="/Assignment_3/images/brother1colorful.png" alt="brother1ver1" width="20%"/>
-<img src="/Assignment_3/images/brother1.png" alt="brother1ver2" width="20%"/>
+    <img src="/Assignment_3/images/brother1colorful.png" alt="brother1ver1" width="20%"/>
+    <img src="/Assignment_3/images/brother1.png" alt="brother1ver2" width="20%"/>
 
 
     
