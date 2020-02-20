@@ -12,7 +12,7 @@ Move the shapes used to create the face (adding more if necessary) to express:
 - - - -
 ## OpenFrameworks Iterations
 Happiness:  
-<img src="/Assignment_4/images/brother1.png" alt="brother1" width="80" align="center"/> 
+<img src="/Assignment_4/images/brother1.png" alt="brother1" width="80%" align="center"/> 
 
 
 
