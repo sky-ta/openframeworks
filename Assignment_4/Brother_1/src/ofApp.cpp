@@ -2,11 +2,13 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
 	ofSetFrameRate(60); //60 frames/sec
+	//counter = 0;
+	ofSetWindowTitle("Brother 1");
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-
+	//counter = counter +  0.03f;
 }
 
 //--------------------------------------------------------------
@@ -65,9 +67,10 @@ void ofApp::draw(){
 	ofSetRectMode(OF_RECTMODE_CENTER);
 
 	ofDrawRectRounded(myRect, 10);
-	//Mouth:
+	//Mouth happy:
 	ofSetColor(0, 0, 0);
 	ofFill();
+	/*
 	x0cur = width / 2 - 5;
 	y0cur = height / 2.6;
 	x1cur = width / 2 - 10;
@@ -76,8 +79,41 @@ void ofApp::draw(){
 	y2cur = height / 2.2;
 	x3cur = width / 2 + 5;
 	y3cur = height / 2.6;
+	*/
+	//Mouth Sad:
+	/*
+	x0cur = width / 2 - 5;
+	y0cur = height / 1.9;
+
+	x1cur = width / 2 - 10;
+	y1cur = height / 2.1;
+	x2cur = width / 2 + 10;
+	y2cur = height / 2.1;
+
+	x3cur = width / 2 + 5;
+	y3cur = height / 1.9;
+
+	
 
 	ofDrawCurve(x0cur,y0cur, x1cur, y1cur, x2cur, y2cur, x3cur, y3cur);
+
+	*/
+	
+	//Mouth surprised:
+	//eyes:
+	ofSetColor(0, 0, 0);
+	ofFill();
+	ofDrawCircle(width / 2 - 10, height / 2.4, 2);
+	ofDrawCircle(width / 2 + 10, height / 2.4, 4);
+	//ofPushMatrix(); 
+	//ofRotateX(45);         // change the coordinate system
+	//ofPopMatrix();
+	ofSetColor(0, 0, 0);
+	ofFill();
+	//float mouthw = 20 + 50 * sin(counter);
+	ofDrawEllipse(width/2, height/2-15, 35, 25);
+	
+
 
 	
 }
