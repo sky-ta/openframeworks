@@ -22,6 +22,14 @@ Designs:
 
 4 Elements presented on OF:  
     <img src="/Assignment_3/images/bigbird_2.png" alt="bird" width="40%"/>
+    <img src="/Assignment_3/images/brother1.png" alt="brother1" width="40%"/>  
+(Testing color variations):
+<img src="/Assignment_3/images/brother1colorful.png" alt="brother1ver1" width="30%"/>
+<img src="/Assignment_3/images/brother1.png" alt="brother1ver2" width="30%"/>
+<img src="/Assignment_3/images/brother1ver1.png" alt="brother1ver3" width="30%"/>
+
+
+    
 #### Project 2
 I want to create an abstract visualization of this [Flight Data API](https://rapidapi.com/Travelpayouts/api/flight-data) data (data source is temporary, may be changed). This project is my personal take on how often  international flight are made to the cities that I have spend my time at.  
 
